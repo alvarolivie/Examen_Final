@@ -1,7 +1,7 @@
 const loadPedidos = async () => {
     let tabla = document.getElementById("body");
     let pedidos;
-    let res = await fetch("/api/v1/products");
+    let res = await fetch("/api/v1/products/");
     if (res.ok) {
         pedidos= await res.json();
     }

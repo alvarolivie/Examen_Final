@@ -26,3 +26,5 @@ let json2array=(json)=>{
     });
     return result;
 }
+
+loadPedidos();
