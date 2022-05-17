@@ -1,8 +1,6 @@
 package edu.icai.pat.Controller;
 
-import edu.icai.pat.model.DispositivoTipo;
-import edu.icai.pat.model.Product;
-import edu.icai.pat.repository.DispositivoRepo;
+import edu.icai.pat.join.DispositivoTipo;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;

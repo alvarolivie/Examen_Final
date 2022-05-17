@@ -1,6 +1,6 @@
 package edu.icai.pat.service.impl;
 
-import edu.icai.pat.model.DispositivoTipo;
+import edu.icai.pat.join.DispositivoTipo;
 import edu.icai.pat.repository.DispositivoRepo;
 import edu.icai.pat.service.DispositivoService;
 import org.springframework.beans.factory.annotation.Autowired;

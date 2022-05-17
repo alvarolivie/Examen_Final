@@ -1,4 +1,4 @@
-package edu.icai.pat.model;
+package edu.icai.pat.join;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

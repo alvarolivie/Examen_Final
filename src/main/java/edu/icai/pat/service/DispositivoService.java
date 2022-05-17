@@ -1,7 +1,6 @@
 package edu.icai.pat.service;
 
-import edu.icai.pat.model.Dispositivo;
-import edu.icai.pat.model.DispositivoTipo;
+import edu.icai.pat.join.DispositivoTipo;
 
 public interface DispositivoService {
     public Iterable<DispositivoTipo> getAllDispositivos();

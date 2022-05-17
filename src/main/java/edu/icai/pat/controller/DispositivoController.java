@@ -1,6 +1,6 @@
 package edu.icai.pat.controller;
 
-import edu.icai.pat.model.DispositivoTipo;
+import edu.icai.pat.join.DispositivoTipo;
 import edu.icai.pat.service.DispositivoService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
